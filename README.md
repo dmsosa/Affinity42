@@ -9,7 +9,7 @@ This project has been created as part of the Hackathon 42442 by _durisosa_, _dfl
 
 Herramienta para identificar estudiantes de 42 con perfiles y ritmos de trabajo compatibles para futuros proyectos en grupo.
 
-## 1) Dolor detectado
+## 1) Problema detectado
 
 En 42, formar equipos efectivos suele depender de contactos previos o intuición. Esto dificulta encontrar compañer@s con:
 
