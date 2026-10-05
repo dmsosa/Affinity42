@@ -2,6 +2,11 @@ This project has been created as part of the Hackathon 42442 by _durisosa_, _dfl
 
 # Affinity42
 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![42 Madrid](https://img.shields.io/badge/42-Madrid-000000?logo=42&logoColor=white)](https://www.42madrid.com/)
+[![Status](https://img.shields.io/badge/status-MVP%20documentation-blue)](https://github.com/dmsosa/Affinity42)
+
 Herramienta para identificar estudiantes de 42 con perfiles y ritmos de trabajo compatibles para futuros proyectos en grupo.
 
 ## 1) Dolor detectado
