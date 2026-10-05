@@ -1,3 +1,5 @@
+This project has been created as part of the Hackathon 42442 by _durisosa_, _dflor_, _louliveira_, _dobrin_
+
 # Affinity42
 
 Herramienta para identificar estudiantes de 42 con perfiles y ritmos de trabajo compatibles para futuros proyectos en grupo.
