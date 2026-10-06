@@ -96,10 +96,10 @@ git clone https://github.com/dmsosa/Affinity42.git
 cd Affinity42
 python -m venv .venv
 source .venv/bin/activate
-pip install streamlit pandas numpy requests seaborn matplotlib
+pip install -r requirements.txt
 ```
 
-### 8.3 Ejecución (cuando exista `app.py`)
+### 8.3 Ejecución
 
 ```bash
 streamlit run app.py
